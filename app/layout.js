@@ -3,7 +3,7 @@ import { Outfit } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
 import { usePathname } from "next/navigation";
-import { UpdateCartContext } from "./_context/UpdateCartContext";
+import { updateCartContext } from "./_context/UpdateCartContext";
 import { useEffect, useState } from "react";
 import { PayPalScriptProvider } from "@paypal/react-paypal-js";
 const outfit = Outfit({ subsets: ["latin"] });
