@@ -1,9 +1,9 @@
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
-import slider from "./_components/Slider";
-import globalApi from "./_utils/GlobalApi";
-import categoryList from "./_components/CategoryList";
-import productList from "./_components/ProductList";
+import Slider from "./_components/slider";
+import GlobalApi from "./_utils/globalApi";
+import CategoryList from "./_components/categoryList";
+import ProductList from "./_components/productList";
 import Footer from "./_components/Footer";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { Phone, Terminal } from "lucide-react";
