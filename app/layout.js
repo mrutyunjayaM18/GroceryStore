@@ -1,12 +1,12 @@
-"use client"
-import { Outfit } from "next/font/google";
-import "./globals.css";
-import { Toaster } from "@/components/ui/sonner";
-import { usePathname } from "next/navigation";
-import { UpdateCartContext } from "./_context/updateCartContext";
-import { useEffect, useState } from "react";
-import { PayPalScriptProvider } from "@paypal/react-paypal-js";
-const outfit = Outfit({ subsets: ["latin"] });
+// "use client"
+// import { Outfit } from "next/font/google";
+// import "./globals.css";
+// import { Toaster } from "@/components/ui/sonner";
+// import { usePathname } from "next/navigation";
+// import { UpdateCartContext } from "./_context/updateCartContext";
+// import { useEffect, useState } from "react";
+// import { PayPalScriptProvider } from "@paypal/react-paypal-js";
+// const outfit = Outfit({ subsets: ["latin"] });
 
 // export const metadata = {
 //   title: "Create Next App",
