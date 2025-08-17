@@ -1,12 +1,12 @@
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
-import Slider from "./_components/slider";
-import GlobalApi from "./_utils/globalApi";
-import CategoryList from "./_components/categoryList";
-import ProductList from "./_components/productList";
-import Footer from "./_components/Footer";
-import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
-import { Phone, Terminal } from "lucide-react";
+// import { Button } from "@/components/ui/button";
+// import Image from "next/image";
+// import Slider from "./_components/slider";
+// import GlobalApi from "./_utils/globalApi";
+// import CategoryList from "./_components/categoryList";
+// import ProductList from "./_components/productList";
+// import Footer from "./_components/Footer";
+// import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
+// import { Phone, Terminal } from "lucide-react";
 
 export default async function Home() {
 
